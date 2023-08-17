@@ -48,3 +48,13 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+main {
+  margin: 2 rem auto;
+  text-align: center;
+  color: white;
+}
+
+main a {
+  color: rgb(212, 212, 212);
+}
